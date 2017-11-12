@@ -1,0 +1,11 @@
+head{
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-family: helvetica;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+  color: white;
+}
