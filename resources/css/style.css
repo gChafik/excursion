@@ -1,11 +1,39 @@
-head{
+body{
   background-color: black;
   text-align: center;
 }
 h1 {
-  font-family: helvetica;
+  font-family: Verdana;
   font-size: 50px;
   font-weight: normal;
   text-align: center;
   color: white;
+}
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+  color: white;
+}
+video{
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 21px;
+  text-align: center;
+  color: gray;
+}
+img {
+  text-align: center;
+}
+.discover {
+  text-align: center;
+  color: Aquamarine;
+  font-size: 16px;
+}
+.copy {
+  text-align: right;
+  color: gray;
 }
